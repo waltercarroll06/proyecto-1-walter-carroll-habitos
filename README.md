@@ -51,4 +51,4 @@ Con este proyecto practiqué:
 3. Ejecuta:
 
 ```bash
-python main.py
+python trabajogithub.py
